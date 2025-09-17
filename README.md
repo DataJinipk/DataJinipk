@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataJinipk
-- 👀 I’m interested in Data Analytics and AI projects
-- 🌱 I’m currently learning Data Analytics, ML and AI
-- 💞️ I’m looking to collaborate on DA, ML and AI projects
+- 👀 I’m interested in Agentic AI projects
+- 🌱 I’m currently learning Generative & Agentic AI
+- 💞️ I’m looking to collaborate on Gen & Agentic AI projects
 - 📫 How to reach me https://www.linkedin.com/in/amirwah/
 
 <!---
